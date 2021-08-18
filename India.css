@@ -1,0 +1,59 @@
+.title {
+  font-size: 65px;
+  background-color:orange; 
+    box-shadow: 5px 5px 5px #888888;
+  padding: 5px 20px;
+}
+
+.header2 {
+  font-size: 35px;
+  background-color: rgb(255, 187, 60);
+    box-shadow: 5px 5px 5px #888888;
+  padding: 5px 20px;
+}
+
+.subheader1 {
+  font-size: 25px;
+}
+
+
+.links {
+  color: blue;
+}
+
+container {
+  font-size: 18px;
+}
+
+.subheader1,.subheader2,.subheader3{
+  font-size:25px;
+  
+}
+
+.indiaimg {
+  height:700px;
+  float: left;
+  position: relative;
+}
+.donationBtn {
+  margin-bottom:40px;
+  padding:0px 10px;
+  border: 3px solid rgb(255, 187, 60); 
+  text-align: center;
+  font-size: 28px;
+  color: rgb(255, 187, 60);
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px #888888;
+}
+
+.donationBtn:hover {
+  padding:0px 10px;
+  box-shadow: 5px 5px 5px #888888;
+  text-align: center;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 28px;
+  color:white;
+  background-color: rgb(255, 187, 60); 
+}
